@@ -373,7 +373,7 @@ public class BotCentral extends TelegramLongPollingBot {
                         //// Metodo Agregando Cuenta Falta
                         
                         
-                    }/*else if(auxi==5 || OpcionMenu.equals("E") || OpcionMenu.equals("e")){
+                    }else if(auxi==5 || OpcionMenu.equals("E") || OpcionMenu.equals("e")){
                         
                         message.setText(Despedida);
                         try{
@@ -383,7 +383,7 @@ public class BotCentral extends TelegramLongPollingBot {
                         }
                         EstadoInicial=0;
                     
-                    }*/
+                    }
                     
                     
                     break;
